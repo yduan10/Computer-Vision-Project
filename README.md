@@ -1,1 +1,2 @@
 # Computer-Vision-Project
+In this project, our group aimed to design a hand gesture-based mouse control system in which we can assess the mouse with gestures without physically touching the mouse. The project's purpose is to detect the hand and count the fingers. When one finger moves horizontally in front of the camera, we can move the mouse, when moving vertically we can left-click. With two fingers detected moving horizontally, we can scroll the mouse wheel, when moving vertically we can right-click.
